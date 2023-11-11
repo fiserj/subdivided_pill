@@ -1,0 +1,39 @@
+BasedOnStyle: LLVM
+
+AlignAfterOpenBracket: AlwaysBreak
+
+AlignConsecutiveDeclarations: false
+
+AlignEscapedNewlines: Left
+
+AlignOperands: false
+
+AllowShortBlocksOnASingleLine: false
+
+AllowShortFunctionsOnASingleLine: Inline
+
+AlwaysBreakBeforeMultilineStrings: true
+
+AlwaysBreakTemplateDeclarations: true
+
+BinPackArguments: false
+
+BinPackParameters: false
+
+BreakBeforeBinaryOperators: None
+
+ColumnLimit: 0
+
+ConstructorInitializerIndentWidth: 2
+
+ContinuationIndentWidth: 2
+
+Cpp11BracedListStyle: true
+
+DerivePointerAlignment: false
+
+IndentPPDirectives: AfterHash
+
+KeepEmptyLinesAtTheStartOfBlocks: false
+
+PointerAlignment: Left
